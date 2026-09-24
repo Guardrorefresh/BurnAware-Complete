@@ -1,0 +1,23 @@
+{
+  "repo": "burnaware-complete",
+  "product": "BurnAware Complete",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "system-tools",
+  "topics": [
+    "burnaware",
+    "burnaware-windows",
+    "system-tools-desktop",
+    "how-to-install-burnaware",
+    "burnaware-desktop-package",
+    "burnaware-workspace",
+    "burnaware-pro-tools",
+    "burnaware-suite",
+    "zentool-burnaware",
+    "burnaware-tool-9"
+  ],
+  "site": "zentool.art"
+}
